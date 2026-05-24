@@ -2,6 +2,8 @@
 
 A full-stack Kanban board application inspired by Atlassian Jira, built with the MERN Stack as part of the MERN Stack Developer Intern Technical Assessment.
 
+# NOTE : IT takes a bit time after login please wait or refresh so to connect frontend and backend 
+
 🔗 **Live Demo:** https://jira-clone-xi.vercel.app  
 🔗 **Backend API:** https://jira-clone-cmq7.onrender.com  
 🔗 **GitHub:** https://github.com/Prem-0007/jira-clone
